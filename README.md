@@ -79,7 +79,7 @@ Me chamo Gabriel Maciel Oliveira, tenho 21 anos e sou natural de Minas Gerais. P
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
-/>      
+/>
 <img 
     align="left" 
     alt="Postgres" 
