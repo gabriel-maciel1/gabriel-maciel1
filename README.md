@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Maciel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Gabriel Maciel Oliveira, tenho 21 anos e sou natural de Minas Gerais. Possuo curso Técnico em Desenvolvimento de Sistemas na instituição Senai. Hoje trabalho na empresa ConnectPlug, do grupo LWSA. Sou um amante da tecnologia e busco cada dia mais adquirir novos conhecimentos na área.
 
